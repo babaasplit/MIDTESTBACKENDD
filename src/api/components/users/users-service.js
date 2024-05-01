@@ -162,7 +162,7 @@ async function changePassword(userId, password) {
 }
 
 module.exports = {
-  getUsers,
+  getMorningNationUsers,
   getUser,
   createUser,
   updateUser,
